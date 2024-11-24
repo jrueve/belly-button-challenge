@@ -47,7 +47,7 @@ Use otu_ids for the marker colors.
 
 Use otu_labels for the text values.
 
-Bubble Chart
+![image](https://github.com/user-attachments/assets/7d10d35b-3679-4a7f-aa81-576c2d169076)
 
 Display the sample's metadata, i.e., an individual's demographic information.
 
@@ -55,11 +55,11 @@ Loop through each key-value pair from the metadata JSON object and create a text
 
 Append an html tag with that text to the #sample-metadata panel.
 
-hw
+![image](https://github.com/user-attachments/assets/4be39575-fa81-4aa9-a8ed-b6103b1c6284)
 
 Update all the plots when a new sample is selected. Additionally, you are welcome to create any layout that you would like for your dashboard. An example dashboard is shown as follows:
 
-hw
+![image](https://github.com/user-attachments/assets/d55c18c8-d4c2-4457-9441-cdc50bd08acd)
 
 Deploy your app to a free static page hosting service, such as GitHub Pages. Submit the links to your deployment and your GitHub repo. Ensure that your repository has regular commits and a thorough README.md file
 
